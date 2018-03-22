@@ -12,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+
 """
 This file contains all of the configuration values for the application.
 Update this file with the values for your specific Google Cloud project.
